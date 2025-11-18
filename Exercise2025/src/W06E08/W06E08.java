@@ -11,5 +11,6 @@ package W06E08;
 public class W06E08 {
     public static void main(String[] args) {
         System.out.println("Test 3");
+        System.out.println("Test 5");
     }
 }
